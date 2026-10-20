@@ -1,6 +1,5 @@
-# ewb-aws-intern oct-2026
-<h1>AWS Multi-VPC Peering </h1>:
-This project demonstrates how to securely connect two isolated AWS Virtual Private Clouds (VPCs) using a private Peering Connection, allowing private servers to communicate across VPCs without passing through the public internet.
+<center><h1><b>EWB-AWS-INTERNSHIP-OCT-2026</b></h1</center>
+<h2>AWS Multi-VPC Peering </h2><P>This project demonstrates how to securely connect two isolated AWS Virtual Private Clouds (VPCs) using a private Peering Connection, allowing private servers to communicate across VPCs without passing through the public internet.</P>
 <hr>
 <ol><li>Create 2 VPCs</li>
 <li>create 2 private and 1 public subnet for corresponding VPCs</li>
@@ -10,6 +9,7 @@ This project demonstrates how to securely connect two isolated AWS Virtual Priva
 <li>create instances</li>
 <li>configure the peering connection </li>
 <li>Login through SSH </li></ol>
+<hr>
 
-<footer>lets connect & configure | <a href="https://www.linkedin.com/in/parthiban-online/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn Profile">
+<footer> lets connect & configure | <a href="https://www.linkedin.com/in/parthiban-online/">LinkedIn
 </a></footer>
