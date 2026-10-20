@@ -12,4 +12,4 @@ This project demonstrates how to securely connect two isolated AWS Virtual Priva
 <li>Login through SSH </li></ol>
 
 <footer>lets connect & configure | <a href="https://www.linkedin.com/in/parthiban-online/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn Profile">
-</a></a></footer>
+</a></footer>
